@@ -5,8 +5,8 @@
 ### Stay Connected
 | Platform | Link | Purpose |
 |----------|------|---------|
-| Telegram | [t.me/SOLPr0digy](https://t.me/max_tonn88) | Announcements & Support |
-| X | [x.com/SOLPr0digy](https://x.com/max_tonny8) | News & Updates |
+| Telegram | [t.me/FroganBee.sol](https://t.me/froganbee_sol) | Announcements & Support |
+| X | [x.com/FroganBee.sol](https://x.com/froganbee_sol) | News & Updates |
 
 
 [![Solana](https://img.shields.io/badge/Solana-3E3F43?style=flat&logo=solana)](https://solana.com)
